@@ -589,10 +589,10 @@ $("#iptImage1").change(function ()
 			<!---<div class="agileits-w3layouts-map">
 				<h4>Location</h4>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100949.24429313939!2d-122.44206553967531!3d37.75102885910819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1472190196783" style="border:0" allowfullscreen></iframe>
-			</div>
+			</div>--->
 		</div>
 	</div>
-	< //contact -->
+	<!-- //contact -->
 	<!-- footer -->
 		<footer>
 			<div class="w3ls-footer-grids">
@@ -603,7 +603,21 @@ $("#iptImage1").change(function ()
 						<p class="adam">- Dietary Analysis Group</p>
 						<div class="clearfix"></div>
 					</div>
-					
+					<!-- <div class="col-md-3 w3l-footer one tweet">
+						<h3>Tweets</h3>
+						<ul>
+							<li>
+								<a href="#"><i class="fa fa-twitter"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accus.
+								<i>http//example.com</i></a>
+								<span>About 15 minutes ago<span>
+							</span></span></li>
+							<li>
+								<a href="#"> <i class="fa fa-twitter"></i>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit. 
+								<i>http//example.com</i></a>
+								<span>About a day ago<span>
+							</span></span></li>
+						</ul>
+					</div> -->
 					<div class="col-md-4 w3l-footer two">
 						<h3>Keep Connected</h3>
 						<ul>
